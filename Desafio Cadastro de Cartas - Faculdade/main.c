@@ -2,8 +2,6 @@
 
 // Desafio Super Trunfo - Países
 
-// Tema 1 - Cadastro das cartas
-
 // Objetivo 1: Criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações. (Feito!)
 
 // Objetivo 2: Lógica para calcular e exibir duas novas propriedades importantes para cada cidade: a densidade populacional e o PIB per capita. (Feito!)
